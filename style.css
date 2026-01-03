@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to bottom, #ffdde1, #ee9ca7);
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    direction: rtl;
+}
+
+.container {
+    padding: 30px;
+}
+
+img {
+    width: 250px;
+    border-radius: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+audio {
+    margin: 10px 0;
+}
+
+.love-text {
+    font-size: 18px;
+    margin-top: 30px;
+    line-height: 2;
+}
